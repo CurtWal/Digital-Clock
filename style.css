@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(to right, #3794eb, #eb37a0);
+}
+section{
+    display: grid;
+    margin-top: 30vh;
+    margin-left: 60vh;
+    width: 600px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 15px 15px 15px black;
+    justify-content: center;
+    background-color: blueviolet;
+    
+}
+h3{
+    font-size: 50px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px black;
+    width:400px;
+    height: 70px;
+    text-align: center;
+    background-color:hotpink;
+}
+h3:hover{
+    background-color: black;
+    color: white;
+}
+#timeclock{
+    font-size: 50px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px black;
+    width:400px;
+    height: 70px;
+    text-align: center;
+    background-color: darkturquoise;
+}
+#timeclock:hover{
+    background-color: black;
+    color: white;
+}
