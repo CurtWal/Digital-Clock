@@ -1,0 +1,28 @@
+body{
+    background-color: steelblue;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 50px;
+}
+
+.input-output{
+    display: grid;
+    justify-content: center;
+    margin-top: 10%;
+    background-color: aliceblue;
+    border-radius: 80px;
+    box-shadow: 5px 5px 5px black;
+}
+
+#targetDateTime{
+    font-size: 20px;
+}
+
+#remainingTime{
+    font-size: 60px;
+}
